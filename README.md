@@ -6,7 +6,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kushika-s30)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

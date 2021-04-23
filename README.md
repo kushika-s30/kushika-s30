@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on Embedded Systems-related projects.
 - 📫 How to reach me : https://www.linkedin.com/in/kushika-sivaprakasam/
 
-![Visitor Count](https://profile-counter.glitch.me/{kushika-s30}/count.svg)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kushika-s30)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

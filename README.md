@@ -2,7 +2,7 @@
 * 👀 I’m into Digital Electronics, know my way around microcontrollers and enjoy coding in C/C++.
 * 🌱 I’m currently learning Shell Scripting, Data Structures & Algorithms, Embedded ML.
 * 💞️ I’m looking to collaborate on Embedded Systems-related projects.
-* 📫 How to reach me : https://www.linkedin.com/in/kushika-sivaprakasam/
+
 
 
 
